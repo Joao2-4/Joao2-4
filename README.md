@@ -21,7 +21,7 @@ Amante de tecnologia e educação, dedicado a transformar vidas por meio da prog
 ## Ultimos cursos: 
 <ul>
   <li><a href="https://www.udemy.com/course/python-data-science-para-iniciantes/">Python: Ciência de Dados</a></li>
-  <li><a href="https://www.udemy.com/course/java-curso-completo/">Java</a></li>
+  <li><a href="https://www.udemy.com/course/java-curso-completo/">Java Programação Orientada a Objetos </a></li>
   <li><a href="https://www.udemy.com/course/curso-web-design-fundamentos-aprenda-html-css-e-javascript/">Html,Css,JavaScript</a></li>
 </ul>
 <br>
