@@ -27,5 +27,3 @@ Amante de tecnologia e educação, dedicado a transformar vidas por meio da prog
 <br>
 🔴Obs: Ainda não finalizei a parte de interface gráfica em Java, e no curso de HTML, CSS e JavaScript, não avancei até a seção de JavaScript.🔴
 
-
-![snake gif](https://github.com/Joao2-4/Joao2-4/blob/output/github-contribution-grid-snake.svg)
