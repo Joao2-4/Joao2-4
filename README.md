@@ -1,6 +1,6 @@
-### Opa, me chamo Joao Vitor Veloso 👋
+### Opa, me chamo João Vitor Veloso 👋
 
-![Joao Veloso GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao2-4&show_icons=true&theme=shadow_red)
+![João Veloso GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao2-4&show_icons=true&theme=shadow_red)
 
 
 ## TECNOLOGIAS QUE EU USO NO MEU DIA
@@ -11,4 +11,15 @@
 
 
 ![giphy](https://github.com/Joao2-4/Joao2-4/assets/143021352/80ce581c-ccf0-40cc-909e-3464c2d6b9ca)
+
+
+Amante de tecnologia e educação, dedicado a transformar vidas por meio da programação.
+
+## Ultimos cursos: 
+<ul>
+  <li><a href="https://www.udemy.com/course/python-data-science-para-iniciantes/">Ciência de Dados</a></li>
+  <li><a href="https://www.udemy.com/course/java-curso-completo/">Java</a></li>
+  <li><a href="https://www.udemy.com/course/curso-web-design-fundamentos-aprenda-html-css-e-javascript/">Html,Css,JavaScript</a></li>
+</ul>
+Obs: Ainda não finalizei a parte de interface gráfica em Java, e no curso de HTML, CSS e JavaScript, não avancei até a seção de JavaScript.
 
